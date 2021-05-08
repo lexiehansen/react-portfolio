@@ -13,6 +13,34 @@
   }
 }
 
+.content {
+  flex: 1 0 auto;
+}
+
+.footer {
+  margin: auto;
+  background: black;
+  width: auto;
+  padding: 40px 35px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer a {
+  color: white;
+  font-weight: lighter;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+.footer a:hover {
+  background: darkslategray;
+  color: white;
+  border-radius: 15px;
+  text-shadow: none;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -37,6 +65,9 @@
   }
 }
 
+.work__boxes {
+  padding: 20px;
+}
 .work__box {
   display: flex;
   align-items: center;
@@ -69,7 +100,6 @@
 }
 
 .work__list {
-  /* list-style-type: square; */
   list-style-position: inside;
   margin-bottom: var(--gutter-normal);
 }

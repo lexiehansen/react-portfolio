@@ -1,14 +1,14 @@
 import React from 'react';
-
+import './header.css';
 import { Link } from 'react-router-dom';
 
 function Header() {
 
     return (
         <header className="flex-row px-1 header">
-            <h2 className="logo">
+            <h1 className="logo">
                 <a href="/react-portfolio/">Lexie Hansen</a>
-            </h2>
+            </h1>
 
             <nav className="header-nav navbar">
                 <ul className="flex-row nav-list">

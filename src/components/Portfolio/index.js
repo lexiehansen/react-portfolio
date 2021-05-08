@@ -5,7 +5,6 @@ function Portfolio() {
     return (
 <section class="work" id="work">
         <div class="row">
-          <h2>My Work</h2>
           <div class="work__boxes">
   
             <div class="work__box">

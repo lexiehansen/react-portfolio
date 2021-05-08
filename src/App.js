@@ -10,17 +10,14 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <div>
+      <div class="content">
         <Header />
-
-        <main className="main">
         
         <Route path="/about" component={About} />
         <Route path="/Portfolio" component={Portfolio} />
         <Route path="/Contact" component={Contact} />
-      </main>
-      <Footer />
       </div>
+      <Footer />
     </Router>
   );
 }
