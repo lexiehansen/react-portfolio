@@ -34,6 +34,26 @@
   padding: 10px 15px;
 }
 
+.formcontainer {
+  padding: 30px;
+}
+
+.form {
+  background-color: darkslategray;
+  padding: 30px;
+}
+
+.formdiv {
+  text-align: left;
+  padding: 5px;
+  color: white;
+}
+
+.formdiv label {
+  padding: 0px 5px 0px 0px;
+}
+
+
 .footer a:hover {
   background: darkslategray;
   color: white;
