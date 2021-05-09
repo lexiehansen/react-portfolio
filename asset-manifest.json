@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.3d63f6c9.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.7cefb719.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.7cefb719.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.bd4130d1.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.bd4130d1.js.map",
+    "static/js/2.46f09f65.chunk.js": "/react-portfolio/static/js/2.46f09f65.chunk.js",
+    "static/js/2.46f09f65.chunk.js.map": "/react-portfolio/static/js/2.46f09f65.chunk.js.map",
+    "static/js/3.d63a9713.chunk.js": "/react-portfolio/static/js/3.d63a9713.chunk.js",
+    "static/js/3.d63a9713.chunk.js.map": "/react-portfolio/static/js/3.d63a9713.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.3d63f6c9.chunk.css.map": "/react-portfolio/static/css/main.3d63f6c9.chunk.css.map",
+    "static/js/2.46f09f65.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.46f09f65.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/react-portfolio/static/media/github.036bd1c0.svg",
+    "static/media/lexie.png": "/react-portfolio/static/media/lexie.cc53610f.png",
+    "static/media/project-1.png": "/react-portfolio/static/media/project-1.00edd91b.png",
+    "static/media/project-2.png": "/react-portfolio/static/media/project-2.98dd026d.png",
+    "static/media/project-3.png": "/react-portfolio/static/media/project-3.a06ade27.png",
+    "static/media/project-4.png": "/react-portfolio/static/media/project-4.a6812a1e.png",
+    "static/media/project-5.png": "/react-portfolio/static/media/project-5.8effac1c.png",
+    "static/media/project-6.png": "/react-portfolio/static/media/project-6.d4e25956.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd4130d1.js",
+    "static/js/2.46f09f65.chunk.js",
+    "static/css/main.3d63f6c9.chunk.css",
+    "static/js/main.7cefb719.chunk.js"
+  ]
+}
